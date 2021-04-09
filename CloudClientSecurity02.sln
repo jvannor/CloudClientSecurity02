@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CloudClientSecurity02", "CloudClientSecurity02.csproj", "{44C4A710-30AE-4AD6-81AB-F3B07D1F0947}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44C4A710-30AE-4AD6-81AB-F3B07D1F0947}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44C4A710-30AE-4AD6-81AB-F3B07D1F0947}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44C4A710-30AE-4AD6-81AB-F3B07D1F0947}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44C4A710-30AE-4AD6-81AB-F3B07D1F0947}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EF0C8D6F-F9DB-40D8-B798-6416C56A4CD4}
+	EndGlobalSection
+EndGlobal
